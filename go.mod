@@ -1,2 +1,2 @@
-module github.com/objcoding/testmod/v2
+module github.com/fhawke/testmod/v2
 go 1.17
