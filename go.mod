@@ -1,2 +1,3 @@
-module github.com/fhawke/testmod/v2
+module github.com/fhawke/testmod
+
 go 1.17
