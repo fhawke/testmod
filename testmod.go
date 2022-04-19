@@ -1,10 +1,8 @@
 package testmod
 
-import (
-	"fmt"
-)
+import "fmt"
 
-func SayHello(name, str string) string {
-	return fmt.Sprintf("你好, %s, %s", name, str)
-	//change v2
+func SayHello(name string) string {
+	return fmt.Sprintf("你好, %s", name)
+	//rebase and v2 change
 }
