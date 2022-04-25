@@ -3,6 +3,5 @@ package testmod
 import "fmt"
 
 func SayHello(name string) string {
-	return fmt.Sprintf("Hello, %s", name)
-	//master change and fmt
+	return fmt.Sprintf("你好, %s", name)
 }
